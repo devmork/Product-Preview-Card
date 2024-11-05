@@ -4,10 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Preview Card</title>
+    <link rel="stylesheet" href="src/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Happy+Monkey&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Happy+Monkey&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   </head>
   <body>
     <main>
-        <img src="public/assets/images/image-product-mobile.jpg" alt="">
+        <div class="product-img-container">
+          <img src="public/assets/images/image-product-mobile.jpg" alt="" class="product-img--mobile" >
+          <img src="public/assets/images/image-product-desktop.jpg" alt="" class="product-img--desktop">
+        </div>
         <div class="product-content">
          <span class="product-category">
           PERFUME
@@ -25,8 +33,8 @@
           <span class="product-price--original">$169.99</span>
         </div>
 
-        <button class="add-to-cart">
-          <img src="public/assets/images/icon-cart.svg" alt="" id="add-to-cart--icon">
+        <button class="add-to-cart-button">
+          <img src="public/assets/images/icon-cart.svg" alt="" id="add-to-cart-icon">
           Add to Cart
         </button>
     </main>
