@@ -29,15 +29,19 @@ main {
   border: solid 1px red;
   overflow: hidden;
   min-width: 320px;
+  
 }
 
 
 .product-img--mobile {
   width: 100%;
-  background-size: contain;
-  overflow: hidden;
+  height: auto;
+  object-fit: cover;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  
+  
 }
-
 .product-img--desktop {
   display: none;
 }
