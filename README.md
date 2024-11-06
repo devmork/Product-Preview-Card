@@ -23,7 +23,7 @@ This is a solution to the [Product Preview Card challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Desktop-first workflow
+- Mobile-first workflow
 
 
 ## Author
