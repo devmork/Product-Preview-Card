@@ -60,17 +60,19 @@ main {
 
 .product-name {
   font-family: "Fraunces", serif;
-  font-size: 40px;
+  font-size: 2.027rem;
   line-height: 100%;
 }
 
 .product-description {
   font-weight: 500;
-  
+  opacity: 50%;
+  font-size: 0.889rem;
 }
 
 .product-category {
-  word-spacing: 30px;
+  line-height: 150%;
+  word-spacing: 100px;
 }
 
 .product-pricing {
