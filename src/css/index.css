@@ -47,34 +47,33 @@ main {
   
 }
 
-
-.product-category {
-  font-family: "Montserrat", sans-serif;
-  word-spacing: 30px;
+#product-category {
+  font-size: 0.889rem;
+  
 }
 
 .product-name {
   font-family: "Fraunces", serif;
   font-size: 2.027rem;
+  margin: 10px 0;
+  word-spacing: 10px;
   line-height: 100%;
+
 }
 
 .product-description {
   font-weight: 500;
   opacity: 50%;
   font-size: 0.889rem;
+  line-height: 170%;
 }
 
-.product-category {
-  line-height: 150%;
-  word-spacing: 100px;
-}
 
 .product-pricing-container {
   font-family: "Fraunces", serif;
   display: flex;
   align-items: center;
-  padding: 10px 20px 10px 20px
+  padding: 10px 20px;
   
 }
 
