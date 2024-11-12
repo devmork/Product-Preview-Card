@@ -132,6 +132,10 @@ main {
 }
 
 
+.add-to-cart-button:hover {
+  background-color: hsl(158, 41%, 18%);
+}
+
 @media (min-width: 640px) {
 
   .product-card {
