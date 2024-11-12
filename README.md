@@ -1,19 +1,19 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Proudct preview card component solution
 
-This is a solution to the [Product Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/6729794442aa167de01b56ab/challenge/submit). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Overview
 
 ### Screenshot
 
-![]()
+![](design/solution-screenshot.png)
 
 
 
 ### Links
 
-- Solution URL:
-- Live Site URL: 
+- Solution URL: https://github.com/devmork/Product-Preview-Card
+- Live Site URL: https://product-previewcard.netlify.app
 
 ## My process
 
@@ -22,7 +22,6 @@ This is a solution to the [Product Preview Card challenge on Frontend Mentor](ht
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
