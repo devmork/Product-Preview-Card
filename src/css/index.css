@@ -35,7 +35,7 @@ main {
 
 .product-card {
   width: 100%;
-  max-width: 800px;
+  max-width: 40rem;
   margin:  20px 20px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 18px;
@@ -148,28 +148,7 @@ main {
     
   }
 
-  
-
 }
 
-/*
 
-The mobile-first pre-defined media queries:
-/* xs */
-/* @media (min-width: 475px) {} */
-
-/* sm */
-/* @media (min-width: 640px) {} */
-
-/* md */
-/* @media (min-width: 768px) {} */
-
-/* lg */
-/* @media (min-width: 1024px) {} */
-
-/* xl */
-/* @media (min-width: 1280px) {} */
-
-/* 2xl */
-/* @media (min-width: 1536px) {} */
 
