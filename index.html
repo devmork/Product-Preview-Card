@@ -15,8 +15,10 @@
     <main>
       <div class="product-card">
         <section class="images-section">
-          <img src="public/assets/images/image-product-mobile.jpg" alt="" class="product-img--mobile">
-          <img src="public/assets/images/image-product-desktop.jpg" alt="" class="product-img--desktop">
+          <picture>
+            <source media="(min-width: 640px)" srcset="/public/assets/images/image-product-desktop.jpg"> 
+            <img src="public/assets/images/image-product-mobile.jpg" alt="">
+         </picture>
         </section>
         <section class="content-section">
           <span id="product-category">
